@@ -8,6 +8,7 @@
   *
   * Return: Nothing!
   */
+
 void bubble_sort(int *array, size_t size)
 {
 	int i = 0, aux = 0, max = 0, swapped = 1;
